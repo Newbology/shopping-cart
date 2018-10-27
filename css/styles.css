@@ -1,0 +1,27 @@
+#main{
+    background-color: yellow;
+    font-size: 12px;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 2px 2px 2px 2px;
+}
+.list{
+    border:1px solid black;
+    font-size: 16px;
+    width: 500px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.info{
+    border: 1px solid purple;
+    font-size: 12px;
+}
+.price{
+    border: 1px solid red;;
+    font-size: 8px;
+    width: 30px;
+    position:relative;
+    background-color:white;
+    margin-left:auto;
+    margin-bottom:auto;
+}
